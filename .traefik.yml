@@ -1,7 +1,7 @@
 displayName: Amp Drop Plugin
 type: middleware
 
-import: github.com/c0b41/ampdrop
+import: github.com/c0b41/traefik-amp-drop
 
 summary: 'Remove Your origin server Amp support'
 
