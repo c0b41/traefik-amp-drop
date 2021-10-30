@@ -1,0 +1,10 @@
+displayName: Amp Drop Plugin
+type: middleware
+
+import: github.com/c0b41/ampdrop
+
+summary: 'Remove Your origin server Amp support'
+
+testData:
+  Querys: ['amp']
+  status: 301
